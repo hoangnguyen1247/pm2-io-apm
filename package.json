@@ -1,5 +1,5 @@
 {
-  "name": "@pm2/io",
+  "name": "pm2t-io-apm",
   "version": "4.3.5",
   "description": "PM2.io NodeJS APM",
   "main": "build/main/index.js",
